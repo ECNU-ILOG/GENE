@@ -1,5 +1,5 @@
 # GENE
-Repository of ICML 25 Paper "Strong and Weak Identifiability of Optimization-based Causal Discovery in Non-linear Additive Noise Models"
+Repository of ICML 2025 Paper "Strong and Weak Identifiability of Optimization-based Causal Discovery in Non-linear Additive Noise Models"
 
 ## How to Run
 ```python
