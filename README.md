@@ -9,7 +9,7 @@ python run.py --node_num 10 --density 2 --sem mim --sample_size 3000
 ```
 
 ## Reference
-Mingjia Li, Hong Qian, Tian-Zuo Wang, ShujunLi, Min Zhang and Aimin Zhou "Strong and Weak Identifiability of Optimization-based Causal Discovery in Non-linear Additive Noise Models" In Proceedings of the 42nd International Conference on Machine Learning, 2025.
+Mingjia Li, Hong Qian, Tian-Zuo Wang, Shujun Li, Min Zhang and Aimin Zhou "Strong and Weak Identifiability of Optimization-based Causal Discovery in Non-linear Additive Noise Models" In Proceedings of the 42nd International Conference on Machine Learning, 2025.
 
 ## Bibtex
 ```
