@@ -22,7 +22,7 @@ Mingjia Li, Hong Qian, Tian-Zuo Wang, Shujun Li, Min Zhang and Aimin Zhou "Stron
                   Aimin Zhou},
   title        = {Strong and Weak Identifiability of Optimization-based Causal Discovery in Non-linear Additive Noise Models},
   booktitle    = {Proceedings of the 42nd International Conference on Machine Learning},
-  address      = {Toronto, Canada},
+  address      = {Vancouver, Canada},
   year         = {2025}
 }
 ```
